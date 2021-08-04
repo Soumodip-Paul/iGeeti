@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iGeeti</string>
+    <string name="launcher_icon">Launcher Icon</string>
+    <string name="wait">Wait we are readying things for you</string>
+</resources>
