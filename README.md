@@ -11,7 +11,7 @@ Internal storage and SD card and display it in a RecyclerView .
 
 ### Download and Preview 
 
-[ Download Apk ] ({{file name="app-debug.apk"}})
+[ Download Apk ](./app-debug.apk)
 
 ## Uses Permission
 
