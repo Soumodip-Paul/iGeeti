@@ -11,7 +11,7 @@ Internal storage and SD card and display it in a RecyclerView .
 
 ### Download and Preview 
 
-[ Download Apk ](./app-debug.apk)
+<a id="raw-url" href="https://raw.githubusercontent.com/Soumodip-Paul/iGeeti/master/app-debug.apk">Download FILE</a>
 
 ## Uses Permission
 
