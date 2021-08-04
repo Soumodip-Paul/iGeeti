@@ -1,3 +1,5 @@
+![IMG](./app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png#right)
+
 # iGeeti
 iGeeti is an Intent based android music player application .
 It is a very simple music player application which reads songs from your 
