@@ -27,8 +27,8 @@ You can also download sorce code from here
 
 ## Uses Permission
 
-| Syntax      | Description |
+| Permission      | Description   |
 | ----------- | ----------- |
-| __READ_EXTERNAL_STORAGE__ | *Read the contents of your SD card* |
+| __READ_EXTERNAL_STORAGE__   | *Read the contents of your SD card*   |
 
 - [x]  ()
