@@ -11,8 +11,8 @@ Internal storage and SD card and display it in a RecyclerView .
 
 ### Download and Preview 
 
-[Download Apk] (./app-debug.apk "Download APK")
+[ Download Apk ] (./app-debug.apk)
 
 ## Uses Permission
 
-[x] - __READ_EXTERNAL_STORAGE__ (***Read the contents of your SD card***)
+- [x] - __READ_EXTERNAL_STORAGE__ (***Read the contents of your SD card***)
